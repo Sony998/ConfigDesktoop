@@ -147,4 +147,4 @@ alt + super + {Left,Down,Up,Right}
     /home/donnut/.config/bspwm/scripts/bspwm_resize {west,south,north,east
 # Visual studio Code
 alt + v + s
-	/bin/code	
+	/opt/VSCode-linux-x64/code 	
